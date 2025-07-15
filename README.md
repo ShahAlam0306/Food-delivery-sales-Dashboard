@@ -6,28 +6,6 @@
 ## 📌 Overview:
 This project is focused on analyzing **Omato Delivery's monthly sales performance** using Power BI dashboards. It helps visualize key business metrics such as **monthly revenue trends, delivery performance, and sales KPIs** through clean, interactive dashboards with filter options and intuitive icons.
 
-## 🗂️ Folder Structure:
-Omato_Delivery_Dashboard/
-│
-├── Dataset/
-│ ├── January_Sales_2023.xlsx
-│ ├── February_Sales_2023.xlsx
-│ ├── March_Sales_2023.xlsx
-│ ├── April_Sales_2023.xlsx
-│ ├── Omato_Data.xlsx
-│
-├── Images/
-│ ├── Delivery logo.png
-│ ├── filter.png
-│ ├── home.png
-│
-├── PBIX File/
-│ ├── Omato Project _Dashboard_2.pbix
-│ ├── Omato_Dashboard.pbix
-│
-├── README.md
-
-
 ## 📊 Dashboard Features:
 - **Monthly Sales Performance** (January - April 2023)
 - **Delivery KPIs** (Total Orders, Cancelled Orders, On-Time Deliveries)
